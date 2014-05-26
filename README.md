@@ -1,0 +1,4 @@
+NewsAnchor
+==========
+
+NewsAnchor
